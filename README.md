@@ -16,28 +16,38 @@ Currently, I'm delving into the realms of Cyber threats, Diving into the RedHat 
        
    
 ### Social media: 📡    
-Join me on LinkedIn, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
+Join me on LinkedIn, Instagram, Facebook and Snapchat where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
 
-[![LinkedIn Badge](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
-)](https://www.linkedin.com/in/nasir-sharif-b1744124b/)
+<a href="https://www.linkedin.com/in/nasir-sharif-b1744124b/">
+  <img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/linkedin.svg" alt="LinkedIn Badge" width="50" height="50"/>
+</a> &nbsp;
+<a href="https://www.instagram.com/nasirsharif_911?igsh=MjBsOHJ4d3Jxemo4">
+  <img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/instagram.svg" alt="Instagram Badge" width="50" height="50"/>
+</a> &nbsp;
+<a href="https://www.facebook.com/nasir.sharif.33886/">
+  <img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/facebook.svg" alt="Instagram Badge" width="50" height="50"/>
+</a>
+ &nbsp;
+<a href="https://www.snapchat.com/add/maybe_nasir911?share_id=1d9oN7ZpZ9Y&locale=en-US">
+  <img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/snapchat.svg" alt="Instagram Badge" width="50" height="50"/>
+</a>
 
-## Competitions: 🥇
- 
-### CTF's
 
-| CTF | Result | Team | Date |
-|-----|-----|-----|-----|
-|CIT@CTF|top 6%| undermouses |04/2024|
-|BSidesSF CTF|top 10%| movie43 |05/2024|
-|swampCTF|top 17%|check_your_mouse |03/2024|
-|n00bzCTF|top 19%|movie43|08/2024|
-|Space HeroesCTF| top 23% | undermouses |04/2024|
-|AI CTF|top 23%|movie43|05/2024|
-|BCACTF 5.0|top 25%|movie43|06/2024|
-|vsCTF|top 26%| movie43 |06/2024|
-|wolvCTF|top 31%| undermouses|03/2024|
-|osuCTF|top 35%| undermouses |02/2024|
-|ethernautCTF|out of competition|solo|03/2024|
+## Certifications: 🏆
+
+### Certificates
+
+| Certification | Link | Image |
+|---------------|------|-------|
+| [ Android Bug Bounty Hunting: Hunt Like a Rat ](https://github.com/Nasir-Sharif/svg-icons/blob/main/CertificateOfCompletion_Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.pdf) | [Link](https://github.com/Nasir-Sharif/svg-icons/blob/main/CertificateOfCompletion_Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.pdf) | ![Certificate 1](link-to-image) |
+| [ Ethical Hacker ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 2](link-to-image) |
+| [ Career Essentials in Cybersecurity ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 3](link-to-image) |
+| [ Ethical Hacking: File Inclusion ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 4](link-to-image) |
+| [ Hack Network Pc's ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 4](link-to-image) |
+| [ Introduction to Cybersecurity ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 4](link-to-image) |
+| [ SOC Analyst ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 4](link-to-image) |
+| [ SQL Injection Attacks ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 4](link-to-image) |
+| [ Cybersecurity Foundations ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 4](link-to-image) |
 
 ### Algorithms [LeetCode](https://leetcode.com/u/Nasir_Sharif/)
 
