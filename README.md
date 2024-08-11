@@ -48,6 +48,7 @@ Join me on LinkedIn, Instagram, Facebook and Snapchat where I share insights, vi
 </a>
 
 </p>
+
 ## Certifications: 🎓
 
 <table align="center">
