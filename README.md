@@ -1,6 +1,14 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nasir-Sharif&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="Trophy"/>
+  </a>
+</p>
+
+<h1 align="center">Hi 👋, I'm Nasir Sharif</h1>
+<h3 align="center">A passionate Cyber Security Enthusiast from Pakistan <br> <img src="https://img.shields.io/badge/-Pakistan-006600?style=for-the-badge&logo=pakistan&logoColor=white" alt="Pakistan Badge" /> 
+</h3> 
+
 ### About Me:  
+
 <!--
 I'm a passionate Cyber Security with a knack for Remote Access Trojan, Malwares, specializing in RAT's and Offensive Security Tools. I thrive on tackling System Malware Analysis and removal of Backdoor Sessions tasks and exploring the fascinating realm of Latest Cybersecurity Tools and Techniques. Additionally, I have a strong foundation in Networking and Python.
 -->
@@ -10,7 +18,8 @@ Currently, I'm delving into the realms of Cyber threats, Diving into the RedHat 
 ### Social media: 📡    
 Join me on LinkedIn, where I share insights, victories, and even the occasional setback. Embrace the cyberpunk ethos with me. 
 
-[![LinkedIn Badge](https://www.google.com/search?q=linkedin+badge+image%5D&oq=linkedin+badge+image%5D&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQLhhA0gEINTg1N2owajGoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=JdyXos__tp7KHM&vssid=l)](https://www.linkedin.com/in/nasir-sharif-b1744124b/)
+[![LinkedIn Badge](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+)](https://www.linkedin.com/in/nasir-sharif-b1744124b/)
 
 ## Competitions: 🥇
  
