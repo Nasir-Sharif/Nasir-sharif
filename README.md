@@ -1,7 +1,8 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Nasir-Sharif&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="Trophy"/>
   </a>
-</p>
+
+
 
 <h1 align="center">Hi 👋, I'm Nasir Sharif</h1>
 <h3 align="center">A passionate Cyber Security Enthusiast from Pakistan <br> <img src="https://img.shields.io/badge/-Pakistan-006600?style=for-the-badge&logo=pakistan&logoColor=white" alt="Pakistan Badge" /> 
@@ -33,21 +34,46 @@ Join me on LinkedIn, Instagram, Facebook and Snapchat where I share insights, vi
 </a>
 
 
-## Certifications: 🏆
+## Certifications: 🎓
 
-### Certificates
+<table align="center">
+  <tr>
+    <th>Certificate</th>
+    <th>Link</th>
+    <th>Preview</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Nasir-Sharif/svg-icons/blob/main/1722506393419.jpeg">Android Bug Bounty Hunting: Hunt Like a Rat</a></td>
+    <td><a href="https://github.com/Nasir-Sharif/svg-icons/blob/main/1722506393419.jpeg">Link</a></td>
+    <td><img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/1722506393419.jpeg" alt="Android Bug Bounty Hunting: Hunt Like a Rat" width="150" height="auto" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Nasir-Sharif/svg-icons/blob/main/Ethical_Hacker_Badge20240803-7-j80taz.jpg">Ethical Hacker</a></td>
+    <td><a href="https://github.com/Nasir-Sharif/svg-icons/blob/main/Ethical_Hacker_Badge20240803-7-j80taz.jpg">Link</a></td>
+    <td><img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/Ethical_Hacker_Badge20240803-7-j80taz.jpg" alt="Ethical Hacker" width="150" height="auto" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Nasir-Sharif/svg-icons/blob/main/CertificateOfCompletion_Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.jpg">Career Essentials in Cybersecurity</a></td>
+    <td><a href="https://github.com/Nasir-Sharif/svg-icons/blob/main/CertificateOfCompletion_Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.jpg">Link</a></td>
+    <td><img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/CertificateOfCompletion_Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.jpg" alt="Career Essentials in Cybersecurity" width="150" height="auto" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Nasir-Sharif/svg-icons/blob/main/UC-37a4b24f-73ef-435a-8c62-06203441976d%20(1).jpg">SOC Analyst</a></td>
+    <td><a href="https://github.com/Nasir-Sharif/svg-icons/blob/main/UC-37a4b24f-73ef-435a-8c62-06203441976d%20(1).jpg">Link</a></td>
+    <td><img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/UC-37a4b24f-73ef-435a-8c62-06203441976d%20(1).jpg" alt="SOC Analyst" width="150" height="auto" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Nasir-Sharif/svg-icons/blob/main/UC-887442c5-8c98-45e0-936f-0c45f953c265.jpg">Hack Network Pc's</a></td>
+    <td><a href="https://github.com/Nasir-Sharif/svg-icons/blob/main/UC-887442c5-8c98-45e0-936f-0c45f953c265.jpg">Link</a></td>
+    <td><img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/UC-887442c5-8c98-45e0-936f-0c45f953c265.jpg" alt="Hack Network Pc's" width="150" height="auto" /></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/Nasir-Sharif/svg-icons/blob/main/Coursera%20REHAMCR6ZJMP.jpg">Palo Alto Networks Cybersecurity Foundations</a></td>
+    <td><a href="https://github.com/Nasir-Sharif/svg-icons/blob/main/Coursera%20REHAMCR6ZJMP.jpg">Link</a></td>
+    <td><img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/Coursera%20REHAMCR6ZJMP.jpg" alt="Palo Alto Networks Cybersecurity Foundations" width="150" height="auto" /></td>
+  </tr>
+</table>
 
-| Certification | Link | Image |
-|---------------|------|-------|
-| [ Android Bug Bounty Hunting: Hunt Like a Rat ](https://github.com/Nasir-Sharif/svg-icons/blob/main/CertificateOfCompletion_Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.pdf) | [Link](https://github.com/Nasir-Sharif/svg-icons/blob/main/CertificateOfCompletion_Career%20Essentials%20in%20Cybersecurity%20by%20Microsoft%20and%20LinkedIn.pdf) | ![Certificate 1](link-to-image) |
-| [ Ethical Hacker ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 2](link-to-image) |
-| [ Career Essentials in Cybersecurity ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 3](link-to-image) |
-| [ Ethical Hacking: File Inclusion ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 4](link-to-image) |
-| [ Hack Network Pc's ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 4](link-to-image) |
-| [ Introduction to Cybersecurity ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 4](link-to-image) |
-| [ SOC Analyst ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 4](link-to-image) |
-| [ SQL Injection Attacks ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 4](link-to-image) |
-| [ Cybersecurity Foundations ](link-to-pdf-or-image) | [Link](link-to-pdf-or-image) | ![Certificate 4](link-to-image) |
 
 ### Algorithms [LeetCode](https://leetcode.com/u/Nasir_Sharif/)
 
