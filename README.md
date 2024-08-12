@@ -1,19 +1,60 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+</head>
+<body>
+    <div align="center" style="height: 100vh; display: table; width: 100%;">
+        <div style="display: table-cell; vertical-align: middle; text-align: center;">
+            <a href="Coding GIF">
+                <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Coding GIF" width="800"  />
+            </a>
+        </div>
+    </div>
+</body>
+</html>
+
+<p align="center"> &nbsp;<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" alt="Revolving Hearts" width="100" height="100" />
+</p>
+
+
+
+<h1 align="center">Hi 👋, I'm Nasir Sharif</h1> 
+<img src ="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt ="Gradiant Line" width="1000">
+<h3 align="center">A passionate Cyber Security Enthusiast from Pakistan <br> <br> <img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/Flag_of_Pakistan.svg.webp" alt="Pakistan Badge" width="100" /> 
+</h3> 
+
 <p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nasir-Sharif&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark" alt="Trophy" width="700" />
-  </a>
-  <a href="Coding GIF">
-    <img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/Animation%20-%201723396886104.gif" alt="Coding GIF" width="100" />
+  <a href="https://shields.io/">
+    <img src="https://img.shields.io/github/followers/Nasir-Sharif?label=Followers&style=social" alt="GitHub Followers Badge" />
+    <img src="https://img.shields.io/github/stars/Nasir-Sharif?label=Stars&style=social" alt="GitHub Stars Badge" />
   </a>
 </p>
 
 
 
-<h1 align="center">Hi 👋, I'm Nasir Sharif</h1>
-<h3 align="center">A passionate Cyber Security Enthusiast from Pakistan <br> <br> <img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/Flag_of_Pakistan.svg.webp" alt="Pakistan Badge" width="100" /> 
-</h3> 
+<p align="center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Nasir-Sharif&style=flat-square&color=blue" alt="Visitors Badge" />
+  </a>
+</p>
 
+
+
+<p align='center'>
+<!-- <img src='https://github-profile-trophy.vercel.app/?username=tynab&theme=dracula&column=6'> -->
+<img src='https://hacked-github-stat-trophies.vercel.app/?username=Nasir-Sharif&theme=dracula&column=11'>
+</p>
+
+
+
+
+
+   
 ### About Me:  
 
 <!--
