@@ -23,7 +23,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Nasir Sharif</h1> 
+<h1 align="center">Hi , I'm Nasir Sharif</h1> 
 <img src ="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt ="Gradiant Line" width="1000">
 <h3 align="center">A passionate Cyber Security Enthusiast from Pakistan <br> <br> <img src="https://github.com/Nasir-Sharif/svg-icons/blob/main/Flag_of_Pakistan.svg.webp" alt="Pakistan Badge" width="100" /> 
 </h3> 
